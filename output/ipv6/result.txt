@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-01-27 18:37:42,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202601211138448FA9B998510F771A8747-9PrRHC&unique_id=stream-695106910011261612_684_flv&wsSecret=258653137fb1ed334218de18f528adaa&wsTime=69704a44$订阅源
+2026-01-29 18:45:42,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
-CCTV-2,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202601211138448FA9B998510F771A8747-9PrRHC&unique_id=stream-695106910011261612_684_flv&wsSecret=258653137fb1ed334218de18f528adaa&wsTime=69704a44$订阅源
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7$订阅源
 CCTV-8,https://iptv.catvod.com/live.php?id=CCTV8%E7%94%B5%E8%A7%86%E5%89%A7$订阅源
@@ -83,7 +82,6 @@ CETV-4,https://iptv.catvod.com/live.php?id=CETV4$订阅源
 
 ☘️上海频道,#genre#
 上海新闻综合,https://iptv.catvod.com/live.php?id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88$订阅源
-上海第一财经,http://ls.qingting.fm/live/276.m3u8$订阅源
 
 ☘️湖南频道,#genre#
 
@@ -97,14 +95,14 @@ CETV-4,https://iptv.catvod.com/live.php?id=CETV4$订阅源
 🌊港·澳·台,#genre#
 翡翠台,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
 明珠台,http://r.jdshipin.com/ZQ4kN$订阅源
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw$订阅源
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$订阅源
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx$订阅源
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
-凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk$订阅源
+凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8$订阅源
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源
