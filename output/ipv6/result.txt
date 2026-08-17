@@ -1,13 +1,10 @@
 🕘️更新时间,#genre#
-2026-08-15 18:38:42,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-08-17 18:48:05,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
-CETV-1,https://live.chinacert.cftest5.cn/cnmg/live/923287154$订阅源
-CETV-2,https://live.chinacert.cftest5.cn/cnmg/live/923287211$订阅源
-CETV-4,https://live.chinacert.cftest5.cn/cnmg/live/923287339$订阅源
 
 💰央视付费频道,#genre#
 第一剧场,https://ed6e-f4b7-af48-6d55.kylintv.tv/live/chinamovie_iphone.m3u8$订阅源
@@ -15,7 +12,6 @@ CETV-4,https://live.chinacert.cftest5.cn/cnmg/live/923287339$订阅源
 📡卫视频道,#genre#
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
-东南卫视,https://live.chinacert.cftest5.cn/cnmg/live/849116810$订阅源
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 
 ☘️广东频道,#genre#
@@ -45,7 +41,6 @@ CETV-4,https://live.chinacert.cftest5.cn/cnmg/live/923287339$订阅源
 靖天映画,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837$订阅源
 靖天戏剧,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1782639885837$订阅源
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
-天映经典,https://cdn10.123.rr.kg/163189/ccm/$订阅源
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv$订阅源
 
 🎥咪咕直播,#genre#
